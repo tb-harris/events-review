@@ -1,0 +1,12 @@
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#one {
+    background-color: orange;
+}
+
+#two {
+    background-color: purple;
+}
